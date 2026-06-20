@@ -1,0 +1,1 @@
+# Distributed training across multiple GPUs is a common technique to speed up the training of large models. In this test, we will demonstrate how to use PyTorch's `DataParallel` to distribute the training of a simple neural network across multiple GPUs.
