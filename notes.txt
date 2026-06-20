@@ -1,0 +1,3 @@
+libraries 
+- tiktoken # byte pair tokenization
+- pytorch # dataset, dataloader
